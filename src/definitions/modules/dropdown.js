@@ -3268,7 +3268,7 @@ $.fn.dropdown.settings = {
 
   glyphWidth             : 1.0714,     // widest glyph width in em (W is 1.0714 em) used to calculate multiselect input width
   
-  ignoresCase            : false,       // when determining if an item exists or not ignore case of value and label when comparing
+  ignoresCase            : false,      // when determining if an item exists or not ignore case of value and label when comparing
 
   // label settings on multi-select
   label: {
